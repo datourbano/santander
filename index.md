@@ -1,10 +1,10 @@
 # DATO URBANO: Santander
 * #### **MOVILIDAD**
-  - **BICI** ([mapa](https://datourbano.github.io/sevilla/movilidad/bici/39075_movilidad_bici))
+  - **BICI** ([mapa](https://datourbano.github.io/santander/movilidad/bici/39075_movilidad_bici))
     - **Servicios**
       1. [Estaciones de bicicletas](https://github.com/datourbano/santander/blob/master/movilidad/bici/servicios/39075_tusbic_estaciones.md)
     - **Vialidad**
-      1. [Carril bici](https://github.com/datourbano/santander/blob/master/movilidad/bici/vialidad/39075_carril_bici.geojson.md)
+      1. [Carril bici](https://github.com/datourbano/santander/blob/master/movilidad/bici/vialidad/39075_carril_bici.md)
 
 <br />
 ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/twitter_18.png "@datourb") [@datourb](http:twitter.com/datourb)  
