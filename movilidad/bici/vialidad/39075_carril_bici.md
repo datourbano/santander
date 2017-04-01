@@ -13,7 +13,7 @@
   > "Tramos de Carril Bici desplegados en el Municipio de Santander.".
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/herramienta_18.png) Tratamiento:
 
-  Los datos fuente se han descargado en formato CSV. En él, las geometrías se incluyen dentro de un atributo, expresadas en formato WKT [(*Well-known text*)](https://es.wikipedia.org/wiki/Well_Known_Text). Se observa que este campo incluye caracteres extra del tipo (*"\"*) que ha sido necesario eliminar para poderlo procesar geográficamente.
+  Los datos fuente se han descargado en formato CSV. En él, las geometrías se incluyen dentro de un atributo, expresadas en formato WKT [(*Well-known text*)](https://es.wikipedia.org/wiki/Well_Known_Text). Se observa que este campo incluye caracteres extra del tipo ("\\") que ha sido necesario eliminar para poderlo procesar geográficamente.
 
    Las coordenadas originales están definidas en el sistema geográfico de referencia *UTM European 1950 Huso 30Norte*, transformándose al sistema ETRS89 (SGR oficial de España) aplicando una transformación precisa *NTV2* con la rejilla del IGN Península y Baleares.
 
